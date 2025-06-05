@@ -80,7 +80,7 @@
 | <img src="" width="150"/> | [엄윤준](https://github.com/june2301) | Android | - |
 | <img src="" width="150"/> | [원기훈](https://github.com/nOOne-is-hier) | ML / Android | - |
 | <img src="" width="150"/> | [정유진](https://github.com/jjuj99) | Android | - |
-| <img src="" width="150"/> | [형서희](https://github.com/Seohui-Hyung) | Android | - |
+| <img src="https://github.com/user-attachments/assets/9b6ddbe0-f741-469b-87a2-d6a6f0977f56" width="150"/> | [형서희](https://github.com/Seohui-Hyung) | Android | - |
 
 ---
 

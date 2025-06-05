@@ -112,5 +112,5 @@
 ---
 
 ## 💌 Contact & Community
-- Instagram: [@bansoogi_official](https://www.instagram.com/bansoogi?igsh=ZHl4cDZ1YnljczBy)
+- Instagram: [@bansoogi](https://www.instagram.com/bansoogi?igsh=ZHl4cDZ1YnljczBy)
 - 문의: ddc.manager25@gmail.com

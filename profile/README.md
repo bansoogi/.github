@@ -78,7 +78,7 @@
 | <img src="https://avatars.githubusercontent.com/u/77507952?v=4" width="150"/> | [윤병희](https://github.com/username1) | 팀장 / Android | - |
 | <img src="" width="150"/> | [김영진](https://github.com/haochaen73) | Android | - |
 | <img src="" width="150"/> | [엄윤준](https://github.com/june2301) | Android | - |
-| <img src="" width="150"/> | [원기훈](https://github.com/nOOne-is-hier) | ML / Android | - |
+| <img src="https://github.com/user-attachments/assets/f38b6439-979e-4516-a6eb-a0855a2bd92a" width="150"/> | [원기훈](https://github.com/nOOne-is-hier) | ML / Android | - |
 | <img src="" width="150"/> | [정유진](https://github.com/jjuj99) | Android | - |
 | <img src="https://github.com/user-attachments/assets/9b6ddbe0-f741-469b-87a2-d6a6f0977f56" width="150"/> | [형서희](https://github.com/Seohui-Hyung) | Android | - |
 
